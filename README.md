@@ -1,4 +1,6 @@
 # GREENET-INSTALLER
 install hacking programms
-chmod +x greenet.sh
-./greenet.sh
+
+1. chmod +x greenet.sh
+
+2. ./greenet.sh
